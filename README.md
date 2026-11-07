@@ -10,7 +10,7 @@ Implement, evaluate, and deploy multiple classification models using the Credit 
 - **Target Variable:** Binary flag indicating credit card default in the next month (0 = No, 1 = Yes).
 
 ## GitHub Repository Link
-[Insert your public GitHub URL here]
+https://github.com/sushantverma-code/BITS_Machine_Learning_Assignment_2
 
 ## Model Evaluation Metrics Comparison
 
