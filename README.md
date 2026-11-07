@@ -12,10 +12,10 @@ Implement, evaluate, and deploy multiple classification models using the Credit 
 ## GitHub Repository Link
 https://github.com/sushantverma-code/BITS_Machine_Learning_Assignment_2
 
-## Streamlit App Link
+## Prayogshala Screenshot - Streamlit App Link
 https://2026aj05970-bits-machine-learning-assignment-2.streamlit.app/
 
-### Lab Environment Setup & Execution
+### Prayogshala Screenshot -  Lab Environment Setup & Execution
 ![Prayogshala Lab Execution 1](Prayogshala_Screenshot/Screenshot1.jpg)
 
 ### App Dashboard Verification
