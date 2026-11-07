@@ -11,7 +11,7 @@ import seaborn as sns
 
 st.set_page_config(page_title="BITS ML Assignment 2", layout="wide")
 
-st.title("BITS Pilani M.Tech AIML - Machine Learning Assignment 2")
+st.title("BITS Pilani M.Tech AIML - Machine Learning Assignment 2 (ID: 2026AJ05970)")
 st.markdown("### Credit Card Default Classification Dashboard")
 
 @st.cache_resource
