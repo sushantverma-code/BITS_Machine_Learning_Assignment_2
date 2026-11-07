@@ -12,6 +12,9 @@ Implement, evaluate, and deploy multiple classification models using the Credit 
 ## GitHub Repository Link
 https://github.com/sushantverma-code/BITS_Machine_Learning_Assignment_2
 
+## Streamlit App Link
+https://2026aj05970-bits-machine-learning-assignment-2.streamlit.app/
+
 ## Model Evaluation Metrics Comparison
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
